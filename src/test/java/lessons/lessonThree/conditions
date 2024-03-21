@@ -1,0 +1,16 @@
+//        $("").shouldBe(visible, Duration.ofSeconds(14));
+//        $("").shouldBe(visible).shouldBe(disabled);
+//        $("").shouldBe(visible, disabled);
+//        $("").shouldBe(and("name", visible, disabled)); //name for logs, works faster
+//        $("").shouldBe(or("name", visible, disabled));
+        //using of different conditions of web elements
+
+
+
+                WebDriverRunner.getWebDriver();
+                webdriver().shouldHave(url(""));
+                webdriver().object().getWindowHandles();
+                WebDriverConditions.
+                //using of different conditions of web driver
+
+
